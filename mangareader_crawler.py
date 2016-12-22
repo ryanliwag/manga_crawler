@@ -5,7 +5,7 @@ import cfscrape
 
 from bs4 import BeautifulSoup
 
-
+#change
 print("mangareader web scraper")
 
 scraper = cfscrape.create_scraper() # CloudflareScraper instance 
