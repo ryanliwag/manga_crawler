@@ -2,7 +2,7 @@ Simple web crawler made for scrapping images in mangareader.com
 made using python with beautifulsoup
 dependencies cfscrape and beautifulsoup
 
-to use the script just type copy paste the manga page you want to dc
+to use the script just paste the manga page you want to download when executing the script
 Example: python mangareader_crawler.py http://www.mangareader.net/one-piece
          python mangareader_crawler.py http://www.mangareader.net/bleach
 
