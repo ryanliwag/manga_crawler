@@ -1,1 +1,8 @@
-This is a test git repo
+Simple web crawler made for scrapping images in mangareader.com
+made using python with beautifulsoup
+dependencies cfscrape and beautifulsoup
+
+to use the script just type copy paste the manga page you want to dc
+Example: python mangareader_crawler.py http://www.mangareader.net/one-piece
+         python mangareader_crawler.py http://www.mangareader.net/bleach
+
